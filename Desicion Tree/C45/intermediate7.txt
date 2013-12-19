@@ -1,0 +1,4 @@
+1 Cool Yes 1
+1 Mild Yes 1
+3 False Yes 1
+3 True Yes 1

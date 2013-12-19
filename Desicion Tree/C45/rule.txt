@@ -1,0 +1,5 @@
+ 0 Overcast Yes
+ 0 Rainy 3 False Yes
+ 0 Rainy 3 True No
+ 0 Sunny 2 High No
+ 0 Sunny 2 Normal Yes

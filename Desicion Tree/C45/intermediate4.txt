@@ -1,0 +1,4 @@
+1 Cool Yes 1
+1 Mild Yes 2
+2 High Yes 1
+2 Normal Yes 2
